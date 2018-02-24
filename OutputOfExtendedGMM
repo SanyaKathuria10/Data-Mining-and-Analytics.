@@ -1,2 +1,0 @@
-We can summarize that anomalies decrease when a very small threshold value we notice that, the model is highly lineant and few anomalies are observed. Higher the threshold value, lots of anomalies are observed since there will be many likelihoods whose probabilities are lower than that of the threshold. 
- 
